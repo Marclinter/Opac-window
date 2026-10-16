@@ -13,25 +13,34 @@ Virustotal: 1 detection, 3 warnings.
 
 # Uso:
 Puedes crear nuevas cajas fuertes dandole al boton de crear caja fuerte 
+
 <img width="835" height="113" alt="image" src="https://github.com/user-attachments/assets/55eacc98-7af7-40ca-b3e4-ef8ecf29c886" />
+
 Y debajo de el aparecera crear clave de descifrado, porque puedes exportar claves de descifrado de una caja a otra, incluso con diferentes usuarios, esta funcion esta algo inmadura a decir verdad.
 Una vez en tu caja fuerte puedes darle al mas para crear carpetas, notas, o subir archivos que quieres cifrar, tambien puedes simplemente arrastrarlos dentro 
+
 <img width="221" height="145" alt="image" src="https://github.com/user-attachments/assets/118c5839-df6b-48ff-9fae-f9c458dc28b5" />
 
 En ajustes tienes opciones variadas, todas estan descritas adecuadamente, puedes ir probandolas 
+
 <img width="452" height="529" alt="image" src="https://github.com/user-attachments/assets/a373b954-5bd6-4f93-8459-01cf3b0fa009" />
 
 Aqui explicare algunas cosas, en la funcion añadir pin, que aparece arriba a la derecha como tambien al lado del nombre de la caja, solo añades el pin de la caja en especifico que quieres resguardar, despues, el descifrar al usar es que solo descifre los archivos con los que interactuas, si no descifraria todos los de la caja.
+
 <img width="356" height="103" alt="image" src="https://github.com/user-attachments/assets/32cb7b59-ce8c-4119-997b-632f299a7416" />
 
 # Usage:
 You can create new vaults by clicking the "Create vault" button.
+
 <img width="835" height="113" alt="image" src="https://github.com/user-attachments/assets/55eacc98-7af7-40ca-b3e4-ef8ecf29c886" />
+
 Below that, you will see an option to create a decryption key. This allows you to export decryption keys from one vault to another—even between different users—though, to be honest, this feature is still somewhat experimental.
 Once inside your vault, you can click the plus (+) icon to create folders or notes, or to upload files you wish to encrypt. You can also simply drag and drop files into the vault.
+
 <img width="221" height="145" alt="image" src="https://github.com/user-attachments/assets/118c5839-df6b-48ff-9fae-f9c458dc28b5" />
 
 The settings menu offers various options, all of which are clearly described; feel free to explore them.
+
 <img width="452" height="529" alt="image" src="https://github.com/user-attachments/assets/a373b954-5bd6-4f93-8459-01cf3b0fa009" />
 
 I’ll clarify a few points here: the "Add PIN" feature—found in the top-right corner as well as next to the vault name—allows you to set a PIN specifically for the vault you want to protect. Additionally, the "decrypt on use" option ensures that only the files you are actively interacting with are decrypted; otherwise, all files in the vault would be decrypted at once. <img width="356" height="103" alt="image" src="https://github.com/user-attachments/assets/32cb7b59-ce8c-4119-997b-632f299a7416" />
