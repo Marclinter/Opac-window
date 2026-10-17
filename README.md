@@ -1,7 +1,13 @@
 # Opac-window
 El zip contiene todo el código fuente. No me hago responsable del uso que le des al programa/The zip file contains all the source code. I am not responsible for how you use the program.
 
-Windows 10 o superior
+Windows 10 o superior, 4GB ram.
+
+ChaCha20-Poly1305
+Argon2id
+Vault Key aleatoria de 256 bits
+encripted-Chucks-4mb/s x 8
+
 
 Es un proyecto que hice de carácter autodidacta, con uso de herramientas, es un proyecto que se centra en crear una aplicacion de cifrado local de archivos que a su vez puede modificar estos y previsualizarlos, permite guardar tus archivos en diferentes cajas fuertes y ponerle pings a estas, permite tener varios usuarios, puedes decidir si al abrir la caja fuerte hacer que todos se desencripten de golpe o solo el que selecciones (ideal), permite activar un modo con administrador para que no se puedan borrar tus archivos (opac guard), No soy un profesional, el código no es perfecto y no debes considerar que ofrece una protección mas allá de algo simple o mediano acorde a tus necesidades, aunque los test pasan sadisfactoriamente, es una alfa, aunque pueda salir como beta en el programa, esta en fase de desarrollo y sois libres de tomarlo de base para vuestros proyectos dando crédito o de mejorar este existente, me daria un gran honor, no quiero que lo uséis de forma ilegal para ocultar material pirata o pruebas de algo o similar, es un software para la gente que tiene alto riesgo de que le revisen la PC o no quiere que un haker pueda acceder a todo el contenido de esta muy facilmente, y si logro sacar una version en linux (o la hace alguien), podra tambien servir para servidores, es todavia un proyecto algo rudimentario, pero funcional, y por eso lo publico aqui, tambien, no tengo una firma digital, o soy un proovedor reconocido, es normal que windows se alerte porque el ejecutable es un .exe (y tambien algunos antivirus, pues es un software que encripta), no tengais miedo, podeis auditar el codigo con cualquier herramienta.
 Virustotal: 1 detección, 3 advertencias.
