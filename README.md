@@ -6,7 +6,8 @@ Windows 10 o superior, 4GB ram.
 ChaCha20-Poly1305
 Argon2id
 Vault Key aleatoria de 256 bits
-encripted-Chucks-4mb/s x 8
+encripted-Chucks-4mb/s x 8.
+
 Guarda bien tu contraseña maestra/Keep your master password safe
 Si tu HDD,SSD suele corromperse facilmente, te recomiendo no usar mucho esta aplicacion/If your HDD,SSD tends to get corrupted easily, I recommend not using this application very much.
 
