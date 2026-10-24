@@ -3,6 +3,8 @@ El zip contiene todo el código fuente. No me hago responsable del uso que le de
 
 Windows 10 o superior, 4GB ram.
 
+Version mas reciente: 0.02 alfa en release
+
 ChaCha20-Poly1305
 Argon2id
 Vault Key aleatoria de 256 bits
